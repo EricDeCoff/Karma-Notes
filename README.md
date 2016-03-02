@@ -28,4 +28,3 @@ karma --version
 ```bash
 [sudo] npm install karma-phantomjs-launcher --save-dev
 ```
-
